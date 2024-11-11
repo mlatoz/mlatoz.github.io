@@ -2,9 +2,9 @@
 
 * *Multiple Linear Regression* is a statistical technique used to model the relationship between multiple variables and a single dependent variable. It is used when we want to predict the value of a dependent variable based on the values of one or more independent variables.
 
-* In simple terms, it is used to find the best-fit line that represents the relationship between the independent variables and the dependent variable. The best-fit line is the line that minimizes the sum of the squared errors between the predicted values and the actual values.
+* In simple terms, it is used to find the best-fit line that represents the relationship between the independent variables and the dependent variable. The *best-fit line* is the line that minimizes the sum of the squared errors between the predicted values and the actual values.
 
-* The multiple linear regression model assumes that the relationship between the dependent variable and the independent variables is linear. It also assumes that the errors between the predicted values and the actual values are normally distributed.
+* The multiple linear regression model assumes that the relationship between the dependent variable and the independent variables is *linear*. It also assumes that the errors between the predicted values and the actual values are *normally distributed*.
 
 * The multiple linear regression model is widely used in various fields such as finance, economics, and marketing to predict the outcome of a dependent variable based on the values of one or more independent variables. It is also used in machine learning to predict the outcome of a dependent variable based on the values of one or more independent variables.
 
@@ -13,7 +13,7 @@
 
 ## Dummy Variables
 
-* Dummy variables are a type of statistical technique used in data analysis and machine learning. They are binary variables, which take on the values of 0 or 1, and are used to represent categorical variables in a statistical model.
+* *Dummy variables* are a type of statistical technique used in data analysis and machine learning. They are binary variables, which take on the values of 0 or 1, and are used to represent categorical variables in a statistical model.
 
 * In a regression analysis, for example, a dummy variable is used to represent whether a particular predictor variable is present or absent in a sample. For example, if we are studying the effect of two different treatments on a response variable, we might use a dummy variable to represent whether the treatment was applied or not.
 
