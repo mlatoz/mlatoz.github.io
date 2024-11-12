@@ -1,7 +1,6 @@
 # Part 01 - Data Preprocessing
 
 Welcome to Part 01 on Data Preprocessing!
-<hr>
 
 We will start by learning and doing Data Preprocessing in Python (next section), and then in R (section after Python). I remind that it is not necessary to master the two languages. We just made this course in both Python and R so that everyone can work on its favourite programming language.
 
