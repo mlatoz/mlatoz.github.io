@@ -29,9 +29,9 @@
   
     - x is the independent variable (the variable used to make predictions).
   
-    - β_0 is the intercept, representing the value of y when x is zero.
+    - β<sub>0</sub> is the intercept, representing the value of y when x is zero.
   
-    - β_1 is the slope of the regression line, indicating how much y changes for each unit change in x.
+    - β<sub>1</sub> is the slope of the regression line, indicating how much y changes for each unit change in x.
   
     - ε represents the error term, which accounts for the variability of y that is not explained by the regression line.
 </pre>
@@ -55,9 +55,9 @@
   
     - X is the independent variable (the predictor or explanatory variable).
   
-    - β_0 is the intercept (the value of Y when X is 0).
+    - β<sub>0</sub> is the intercept (the value of Y when X is 0).
   
-    - β_1 is the slope (the change in Y for a one-unit change in X).
+    - β<sub>1</sub> is the slope (the change in Y for a one-unit change in X).
 </pre>
 
 * The goal of the *OLS* method is to find the values of <code>β<sub>0</sub></code> and <code>β<sub>1</sub></code> that minimize the sum of squared differences between the observed values of `Y` (<code>Y<sub>i</sub></code>) and the predicted values (<code>Ŷ<sub>i</sub></code>) from the linear equation for all data points (`i`) in the dataset.
@@ -73,9 +73,9 @@
   
     - Σ represents the sum of.
   
-    - X_i is the value of the independent variable for the i<sup>th</sup> data point.
+    - X<sub>i</sub> is the value of the independent variable for the i<sup>th</sup> data point.
   
-    - Y_i is the value of the dependent variable for the i<sup>th</sup> data point.
+    - Y<sub>i</sub> is the value of the dependent variable for the i<sup>th</sup> data point.
   
     - X̄ is the mean of all X values.
   
