@@ -53,3 +53,6 @@ View(dataset)
 ## Download Resources
 * <a href="Data Preprocessing in R.r" download>R Code</a>
 * <a href="Data.csv" download>Dataset</a>
+<hr>
+
+<a href="../Section 03 - Data Preprocessing in Python">«Previous</a> | <a href="../Section 05 - Part 02 - Regression">Next»</a>
