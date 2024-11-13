@@ -22,17 +22,19 @@
 
 <code>y = β<sub>0</sub> + β<sub>1</sub> * x + ε</code>
 
-<code>Where:</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- y is the dependent variable (the variable we want to predict).</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- x is the independent variable (the variable used to make predictions).</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- β<sub>0</sub> is the intercept, representing the value of y when x is zero.</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- β<sub>1</sub> is the slope of the regression line, indicating how much y changes for each unit change in x.</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- ε represents the error term, which accounts for the variability of y that is not explained by the regression line.</code>
+<pre>
+  Where:
+  
+    - y is the dependent variable (the variable we want to predict).
+  
+    - x is the independent variable (the variable used to make predictions).
+  
+    - β_0 is the intercept, representing the value of y when x is zero.
+  
+    - β_1 is the slope of the regression line, indicating how much y changes for each unit change in x.
+  
+    - ε represents the error term, which accounts for the variability of y that is not explained by the regression line.
+</pre>
 
 * The goal of simple linear regression is to estimate the values of `β`<sub>`0`</sub> and `β`<sub>`1`</sub> that minimize the sum of squared differences between the predicted values (`β`<sub>`0`</sub> `+ β`<sub>`1`</sub> `* x`) and the actual observed values of the dependent variable. This is usually done using a method called the *least squares approach*.
 
@@ -46,15 +48,17 @@
 
 <code>Y = β<sub>0</sub> + β<sub>1</sub> * X</code>
 
-<code>Where:</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Y is the dependent variable (the one we want to predict or explain).</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- X is the independent variable (the predictor or explanatory variable).</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- β<sub>0</sub> is the intercept (the value of Y when X is 0).</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- β<sub>1</sub> is the slope (the change in Y for a one-unit change in X).</code>
+<pre>
+  Where:
+  
+    - Y is the dependent variable (the one we want to predict or explain).
+  
+    - X is the independent variable (the predictor or explanatory variable).
+  
+    - β_0 is the intercept (the value of Y when X is 0).
+  
+    - β_1 is the slope (the change in Y for a one-unit change in X).
+</pre>
 
 * The goal of the *OLS* method is to find the values of <code>β<sub>0</sub></code> and <code>β<sub>1</sub></code> that minimize the sum of squared differences between the observed values of `Y` (<code>Y<sub>i</sub></code>) and the predicted values (<code>Ŷ<sub>i</sub></code>) from the linear equation for all data points (`i`) in the dataset.
 
@@ -64,17 +68,19 @@
 
 <code>β<sub>0</sub> = Ȳ - β<sub>1</sub> * X̄</code>
 
-<code>Where:</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Σ represents the sum of.</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- X<sub>i</sub> is the value of the independent variable for the i<sup>th</sup> data point.</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Y<sub>i</sub> is the value of the dependent variable for the i<sup>th</sup> data point.</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- X̄ is the mean of all X values.</code>
-
-<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Ȳ is the mean of all Y values.</code>
+<pre>
+  Where:
+  
+    - Σ represents the sum of.
+  
+    - X_i is the value of the independent variable for the i<sup>th</sup> data point.
+  
+    - Y_i is the value of the dependent variable for the i<sup>th</sup> data point.
+  
+    - X̄ is the mean of all X values.
+  
+    - Ȳ is the mean of all Y values.
+</pre>
 
 * The *OLS* method is called "least squares" because it minimizes the sum of the squared vertical distances between the observed data points and the regression line. The line obtained through *OLS* is the "best-fitting" line because it minimizes the total squared error between the observed values and the predicted values.
 
