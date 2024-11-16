@@ -8,3 +8,11 @@
 
 * Overall, Polynomial Regression is a powerful tool for modeling complex relationships between variables and is widely used in various fields.
 <hr>
+
+## Download Resources
+* <a href="Python/Polynomial Regression in Python.ipynb" download>Python Notebook</a>
+* <a href="R/Polynomial Regression in R.r" download>Multiple Linear Regression | R Code</a>
+* <a href="Python/Position_Salaries.csv" download>Dataset</a>
+<hr>
+
+<a href="../Section 07 - Multiple Linear Regression">«Previous</a> | <a href="../Section 09 - Support Vector Regression (SVR)">Next»</a>
