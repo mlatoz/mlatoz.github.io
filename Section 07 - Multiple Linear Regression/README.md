@@ -110,3 +110,14 @@
 * **Step 3:** Select the one with the best criterion
 * **FIN:** Your Model is Ready
 <hr>
+
+## Download Resources
+* <a href="Python/Multiple Linear Regression in Python.ipynb" download>Python Notebook</a>
+* <a href="Assumptions of Linear Regression.ipynb" download>Assumptions of Linear Regression</a>
+* <a href="R/01. Multiple Linear Regression in R.r" download>R Code</a>
+* <a href="R/02. Backward Elimination.r" download>R Code</a>
+* <a href="R/03. Automatic Implementation of BE in R.r" download>R Code</a>
+* <a href="Python/50_Startups.csv" download>Dataset</a>
+<hr>
+
+<a href="../Section 06 - Simple Linear Regression">«Previous</a> | <a href="../Section 08 - Polynomial Regression">Next»</a>
