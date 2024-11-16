@@ -114,9 +114,9 @@
 ## Download Resources
 * <a href="Python/Multiple Linear Regression in Python.ipynb" download>Python Notebook</a>
 * <a href="Assumptions of Linear Regression.ipynb" download>Assumptions of Linear Regression</a>
-* <a href="R/01. Multiple Linear Regression in R.r" download>R Code</a>
-* <a href="R/02. Backward Elimination.r" download>R Code</a>
-* <a href="R/03. Automatic Implementation of BE in R.r" download>R Code</a>
+* <a href="R/01. Multiple Linear Regression in R.r" download>Multiple Linear Regression | R Code</a>
+* <a href="R/02. Backward Elimination.r" download>Backward Elimination | R Code</a>
+* <a href="R/03. Automatic Implementation of BE in R.r" download>Automatic Implementation of BE | R Code</a>
 * <a href="Python/50_Startups.csv" download>Dataset</a>
 <hr>
 
