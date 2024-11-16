@@ -20,9 +20,9 @@
 * Construct the projection matrix **W** from the selected *k* Eigen vectors.
 * Transform the original dataset **X** via **W** to obtain a *k-dimensional* feature subspace **Y**
 
-    https://plot.ly/ipython-notebooks/principal-component-analysis/
+<a href="https://plot.ly/ipython-notebooks/principal-component-analysis/">https://plot.ly/ipython-notebooks/principal-component-analysis/</a>
     
-    http://setosa.io/ev/principal-component-analysis/
+<a href="http://setosa.io/ev/principal-component-analysis/">http://setosa.io/ev/principal-component-analysis/</a>
 
 *PCA is attempting to:-*
 * Learn about the relationship between **X** and **Y** values
