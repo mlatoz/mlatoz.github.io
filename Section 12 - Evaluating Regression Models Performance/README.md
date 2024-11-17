@@ -1,5 +1,4 @@
 # R-Squared Intuition
-<hr>
 
 ## R Squared
 
@@ -40,3 +39,5 @@
 `k` - number of independent variables<br>
 `n` - sample size
 <hr>
+
+<a href="../Section 11 - Random Forest Regression">«Previous</a> | <a href="../Section 13 - Regression Model Selection in Python">Next»</a>
