@@ -18,3 +18,10 @@
 ## Logistic Regression Intuition
 * **Logistic Regression**: Predict a <u>categorical</u> dependent variable from a number of independent variables.
 <hr>
+
+## Download Resources
+* <a href="Python/Logistic Regression in Python.ipynb" download>Python Notebook</a>
+* <a href="Python/Social_Network_Ads.csv" download>Dataset</a>
+<hr>
+
+<a href="../Section 15 - Part 03 - Classification">«Previous</a> | <a href="../Section 17 - K-Nearest Neighbors (K-NN)">Next»</a>
