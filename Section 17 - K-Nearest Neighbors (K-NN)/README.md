@@ -26,3 +26,12 @@
 
 <span style="color: skyblue">**Your Model is Ready**</span>
 <hr>
+
+## Download Resources
+* <a href="Python/K-NN in Python.ipynb" download>Python Notebook</a>
+* <a href="Python/Social_Network_Ads.csv" download>Dataset</a>
+* <a href="R/K-NN in R.r" download>K-Nearest Neighbors | R Code</a>
+* <a href="R/classification_template.R" download>Classification Algorithm Template | R Code</a>
+<hr>
+
+<a href="../Section 16 - Logistic Regression">«Previous</a> | <a href="../Section 18 - Support Vector Machine (SVM)">Next»</a>
