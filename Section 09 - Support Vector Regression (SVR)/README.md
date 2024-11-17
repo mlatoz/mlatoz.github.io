@@ -23,3 +23,13 @@
 
 * SVR is a powerful regression algorithm, especially when dealing with non-linear relationships and situations where the number of features is greater than the number of samples. However, it requires careful hyperparameter tuning and handling of data preprocessing to achieve optimal results.
 <hr>
+
+## Download Resources
+* <a href="SVR Additional Reading.txt">SVR Additional Reading</a>
+* <a href="Support Vector Regression Book.txt">SVR Recommended Book</a>
+* <a href="Python/SVR in Python.ipynb" download>Python Notebook</a>
+* <a href="R/SVR in R.r" download>Support Vector Regression | R Code</a>
+* <a href="Python/Position_Salaries.csv" download>Dataset</a>
+<hr>
+
+<a href="../Section 08 - Polynomial Regression">«Previous</a> | <a href="../Section 10 - Decision Tree Regression">Next»</a>
