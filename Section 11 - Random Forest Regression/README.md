@@ -38,3 +38,11 @@
 
 **STEP 4:** For a new data point, make each one of your *Ntree* trees predict the value of *Y* to for the data point in question, and assign the new data point the average across all of the predicted *Y* values.
 <hr>
+
+## Download Resources
+* <a href="Python/Random Forest Regression.ipynb" download>Python Notebook</a>
+* <a href="R/Random Forest Regression.r" download>Random Forest Regression | R Code</a>
+* <a href="Python/Position_Salaries.csv" download>Dataset</a>
+<hr>
+
+<a href="../Section 10 - Decision Tree Regression">«Previous</a> | <a href="../Section 12 - Evaluating Regression Models Performance">Next»</a>
