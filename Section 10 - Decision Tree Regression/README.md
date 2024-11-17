@@ -45,4 +45,4 @@
 * <a href="Python/Position_Salaries.csv" download>Dataset</a>
 <hr>
 
-<a href="../Section 08 - Polynomial Regression">«Previous</a> | <a href="../Section 10 - Decision Tree Regression">Next»</a>
+<a href="../Section 09 - Support Vector Regression (SVR)">«Previous</a> | <a href="../Section 11 - Random Forest Regression">Next»</a>
