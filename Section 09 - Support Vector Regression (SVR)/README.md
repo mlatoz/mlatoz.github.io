@@ -25,7 +25,7 @@
 <hr>
 
 ## Download Resources
-* <a href="SVR Additional Reading.md">SVR Additional Reading</a>
+* <a href="SVR Additional Reading">SVR Additional Reading</a>
 * <a href="Support Vector Regression Book.txt">SVR Recommended Book</a>
 * <a href="Python/SVR in Python.ipynb" download>Python Notebook</a>
 * <a href="R/SVR in R.r" download>Support Vector Regression | R Code</a>
