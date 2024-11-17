@@ -38,3 +38,11 @@
 - A small change in the data can lead to a large change in the structure of the optimal decision tree.
 - Calculations can get very complex.
 <hr>
+
+## Download Resources
+* <a href="Python/Decision Tree Regression.ipynb" download>Python Notebook</a>
+* <a href="R/Decision Tree Regression.r" download>Decision Tree Regression | R Code</a>
+* <a href="Python/Position_Salaries.csv" download>Dataset</a>
+<hr>
+
+<a href="../Section 08 - Polynomial Regression">«Previous</a> | <a href="../Section 10 - Decision Tree Regression">Next»</a>
