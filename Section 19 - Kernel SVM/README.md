@@ -1,5 +1,4 @@
 # Kernel SVM
-<hr>
 
 ## Mapping to a Higher Dimension
 
@@ -45,3 +44,11 @@
     * Types of Kernel Functions
     * Non-Linear Kernel SVR
 <hr>
+
+## Download Resources
+* <a href="Python/Kernel SVM.ipynb" download>Python Notebook</a>
+* <a href="Python/Social_Network_Ads.csv" download>Dataset</a>
+* <a href="R/Kernel SVM in R.r" download>Kernel SVM | R Code</a>
+<hr>
+
+<a href="../Section 18 - Support Vector Machine (SVM)">«Previous</a> | <a href="../Section 20 - Naive Bayes">Next»</a>
