@@ -24,3 +24,11 @@
 
 One way to address this issue is to use a different classification algorithm that does not assume independence of features, such as a decision tree or a support vector machine.
 <hr>
+
+## Download Resources
+* <a href="Python/Naive Bayes.ipynb" download>Python Notebook</a>
+* <a href="Python/Social_Network_Ads.csv" download>Dataset</a>
+* <a href="R/Naive Bayes in R.r" download>Naive Bayes | R Code</a>
+<hr>
+
+<a href="../Section 19 - Kernel SVM">«Previous</a> | <a href="../Section 21 - Decision Tree Classification">Next»</a>
