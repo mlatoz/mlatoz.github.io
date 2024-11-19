@@ -1,4 +1,6 @@
-# Confusion Matrix & Accuracy Ratios
+# Classification Model Selection in Python
+
+## Confusion Matrix & Accuracy Ratios
 <hr>
 
 **Accuracy Rate and Error Rate:**
@@ -65,3 +67,11 @@
 
 **Note:-** *Here the highest accuracy score is of **Decision Tree Classification***
 <hr>
+
+## Download Resources
+* <a href="Resources/Regression.zip" download>Regression Files | ZIP</a>
+* <a href="Resources/Classification.zip" download>Classification Files | ZIP</a>
+* <a href="Resources/Machine+Learning+A-Z+(Model+Selection).zip" download>Model Selection | ZIP</a>
+<hr>
+
+<a href="../Section 22 - Random Forest Classification">«Previous</a> | <a href="../Section 24 - Evaluating Classification Models Performance">Next»</a>
