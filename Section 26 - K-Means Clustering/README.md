@@ -35,3 +35,11 @@
         Step 4: Repeat *Steps 2* and *3* until all *k* centroids have been selected
         Step 5: Proceed with standard k-means clustering
 <hr>
+
+## Download Resources
+* <a href="Python/K-Means Clustering.ipynb" download>Python Notebook</a>
+* <a href="Python/Mall_Customers.csv" download>Dataset</a>
+* <a href="R/K-Means Clustering.r" download>K-Means Clustering | R Code</a>
+<hr>
+
+<a href="../Section 25 - Part 04 - Clustering">«Previous</a> | <a href="../Section 27 - Hierarchical Clustering">Next»</a>
