@@ -1,8 +1,6 @@
 # Evaluating Classification Models Performance
-<hr>
 
 ## Conclusion of Part 03 - Classification
-<hr>
 
 In this Part 3 you learned about 7 classification models. Like for Part 2 - Regression, that's quite a lot so you might be asking yourself the same questions as before:
 
@@ -42,11 +40,12 @@ Then from a business point of view, you would rather use:
 
 -> Same answer as in Part 2: 
 
-In Part 10 - Model Selection, you will find the second section dedicated to Parameter Tuning, that will allow you to improve the performance of your models, by tuning them. You probably already noticed that each model is composed of two types of parameters:
+In <a href="Section 46 - Part 10 - Model Selection &amp; Boosting">Part 10 - Model Selection</a>, you will find the second section dedicated to Parameter Tuning, that will allow you to improve the performance of your models, by tuning them. You probably already noticed that each model is composed of two types of parameters:
 
 the parameters that are learnt, for example the coefficients in Linear Regression,
 
 the hyperparameters.
 
-The hyperparameters are the parameters that are not learnt and that are fixed values inside the model equations. For example, the regularization parameter lambda or the penalty parameter C are hyperparameters. So far we used the default value of these hyperparameters, and we haven't searched for their optimal value so that your model reaches even higher performance. Finding their optimal value is exactly what Parameter Tuning is about. So for those of you already interested in improving your model performance and doing some parameter tuning, feel free to jump directly to Part 10 - Model Selection.
+The hyperparameters are the parameters that are not learnt and that are fixed values inside the model equations. For example, the regularization parameter lambda or the penalty parameter C are hyperparameters. So far we used the default value of these hyperparameters, and we haven't searched for their optimal value so that your model reaches even higher performance. Finding their optimal value is exactly what Parameter Tuning is about. So for those of you already interested in improving your model performance and doing some parameter tuning, feel free to jump directly to <a href="Section 46 - Part 10 - Model Selection &amp; Boosting
+">Part 10 - Model Selection</a>.
 <hr>
