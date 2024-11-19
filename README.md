@@ -1,7 +1,4 @@
-<style>
-    background-color: #252525;
-    color: white;
-</style>
+<style>background-color: #252525; color: white;</style>
 
 # Machine Learning A-Z: AI, Python & R + ChatGPT Bonus [2023]
 
