@@ -2,7 +2,7 @@
 
 ## Conclusion of Part 03 - Classification
 
-In this Part 3 you learned about 7 classification models. Like for Part 2 - Regression, that's quite a lot so you might be asking yourself the same questions as before:
+In this Part 3 you learned about 7 classification models. Like for <a href="Section 05 - Part 02 - Regression">Part 2 - Regression</a>, that's quite a lot so you might be asking yourself the same questions as before:
 
     1. What are the pros and cons of each model ?
 
