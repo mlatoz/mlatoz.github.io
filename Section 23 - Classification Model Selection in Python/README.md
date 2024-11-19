@@ -1,7 +1,6 @@
 # Classification Model Selection in Python
 
 ## Confusion Matrix & Accuracy Ratios
-<hr>
 
 **Accuracy Rate and Error Rate:**
 
