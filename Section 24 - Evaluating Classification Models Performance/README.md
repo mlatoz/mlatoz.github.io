@@ -49,3 +49,9 @@ the hyperparameters.
 The hyperparameters are the parameters that are not learnt and that are fixed values inside the model equations. For example, the regularization parameter lambda or the penalty parameter C are hyperparameters. So far we used the default value of these hyperparameters, and we haven't searched for their optimal value so that your model reaches even higher performance. Finding their optimal value is exactly what Parameter Tuning is about. So for those of you already interested in improving your model performance and doing some parameter tuning, feel free to jump directly to <a href="Section 46 - Part 10 - Model Selection &amp; Boosting
 ">Part 10 - Model Selection</a>.
 <hr>
+
+## Download Resources
+* <a href="Classification - Pros &amp; Cons.pdf" download>Classification | Pros & Cons</a>
+<hr>
+
+<a href="../Section 23 - Classification Model Selection in Python">«Previous</a> | <a href="../Section 25 - Part 04 - Clustering">Next»</a>
