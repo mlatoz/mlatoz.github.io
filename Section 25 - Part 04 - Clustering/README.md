@@ -8,8 +8,8 @@
 
 * In this part, you will understand and learn how to implement the following Machine Learning Clustering models:
 
-    1. K-Means Clustering
-    2. Hierarchical Clustering
+        1. K-Means Clustering
+        2. Hierarchical Clustering
 <hr>
 
 <a href="../Section 24 - Evaluating Classification Models Performance">«Previous</a> | <a href="../Section 26 - K-Means Clustering">Next»</a>
