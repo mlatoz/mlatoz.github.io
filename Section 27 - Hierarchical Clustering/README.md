@@ -1,5 +1,4 @@
 # Hierarchical Clustering
-<hr>
 
 ## HC Intuition: Understanding HC
 
@@ -37,3 +36,12 @@
 
 * Option 4: Distance Between Centroids
 <hr>
+
+## Download Resources
+* <a href="Clustering Pros & Cons.ipynb" download>Clustering | Pros & Cons | Notebook</a>
+* <a href="Python/Hierarchical Clustering.ipynb" download>Python Notebook</a>
+* <a href="Python/Mall_Customers.csv" download>Dataset</a>
+* <a href="R/Hierarchical Clustering.r" download>Hierarchical Clustering | R Code</a>
+<hr>
+
+<a href="../Section 26 - K-Means Clustering">«Previous</a> | <a href="../Section 28 - Part 05 - Association Rule Learning">Next»</a>
