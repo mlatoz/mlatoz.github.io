@@ -2,9 +2,9 @@
 
 ## Eclat - Support
 
-* **Movie Recommendation:**&emsp;&emsp;<code>support(***M***) = (# user watchlists containing ***M***) / (# user watchlists)</code>
+* **Movie Recommendation:**&emsp;&emsp;<code>support(<b><i>M</i></b>) = (# user watchlists containing <b><i>M</i></b>) / (# user watchlists)</code>
 
-* **Market Basket Optimisation:**&emsp;&emsp;<code>support(***I***) = (# transactions containing ***I***) / (# transactions)</code>
+* **Market Basket Optimisation:**&emsp;&emsp;<code>support(<b><i>I</i></b>) = (# transactions containing <b><i>I</i></b>) / (# transactions)</code>
 <hr>
 
 ## Eclat - Algorithm
