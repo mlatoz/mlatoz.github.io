@@ -1,5 +1,4 @@
 # Apriori
-<hr>
 
 ## Apriori - Support
 
@@ -34,3 +33,11 @@
 
 * **STEP 4:** Sort the rules by decreasing *lift*
 <hr>
+
+## Download Resources
+* <a href="Python/Apriori.ipynb" download>Python Notebook</a>
+* <a href="Python/Market_Basket_Optimisation.csv" download>Dataset</a>
+* <a href="R/Apriori.r" download>Apriori | R Code</a>
+<hr>
+
+<a href="../Section 28 - Part 05 - Association Rule Learning">«Previous</a> | <a href="../Section 30 - Eclat">Next»</a>
