@@ -11,7 +11,7 @@ In this part, you will understand and learn how to implement the following Reinf
 
 Also, a great complementary resource for this chapter is the following book (you will recognize the author):
 
-[Click Here]("https://www.amazon.com/Crash-Course-hands-introduction-reinforcement/dp/1838645357/ref=sr_1_1?crid=235YAFPX03J0Z&dchild=1&keywords=ai+crash+course&qid=1594476675&sprefix=ai+cr%2Caps%2C213&sr=8-1")
+<a href="https://www.amazon.com/Crash-Course-hands-introduction-reinforcement/dp/1838645357/ref=sr_1_1?crid=235YAFPX03J0Z&dchild=1&keywords=ai+crash+course&qid=1594476675&sprefix=ai+cr%2Caps%2C213&sr=8-1">Click Here</a>
 
 In this book you will find the theory of Reinforcement Learning and Thompson Sampling clearly explained in text, as well as many more practical activities. It will definitely help you understand this chapter better. You will also find other AI models such as *Q-Learning*, *Deep Learning*, *Deep Q-Learning*, *Deep Convolutional Q-Learning*, and *Convolutional Neural Networks*.
 
