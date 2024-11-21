@@ -1,5 +1,4 @@
 # Eclat
-<hr>
 
 ## Eclat - Support
 
@@ -16,3 +15,11 @@
 
 * **STEP 3:** Sort these subsets by decreasing *support*
 <hr>
+
+## Download Resources
+* <a href="Python/Eclat.ipynb" download>Python Notebook</a>
+* <a href="Python/Market_Basket_Optimisation.csv" download>Dataset</a>
+* <a href="R/Eclat.r" download>Eclat | R Code</a>
+<hr>
+
+<a href="../Section 29 - Apriori">«Previous</a> | <a href="../Section 31 - Part 06 - Reinforcement Learning">Next»</a>
