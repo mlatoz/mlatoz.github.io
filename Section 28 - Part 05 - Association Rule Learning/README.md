@@ -6,8 +6,8 @@
 
 In this part, you will understand and learn how to implement the following Association Rule Learning models:
     
-    1. `Apriori`
-    2. `Eclat`
+    1. Apriori
+    2. Eclat
 
 *Enjoy Machine Learning!*
 <hr>
