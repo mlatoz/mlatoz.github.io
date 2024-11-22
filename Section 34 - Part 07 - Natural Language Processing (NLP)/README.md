@@ -42,7 +42,7 @@ In this part, you will understand and learn how to:
 ## Download Resources
 * <a href="Python/Natural Language Processing (NLP).ipynb" download>Python Notebook</a>
 * <a href="Python/Restaurant_Reviews.tsv" download>Dataset</a>
-* <a href="R/Natural Language Processing (NLP).r" download>Thompson Sampling | R Code</a>
+* <a href="R/Natural Language Processing (NLP).r" download>Natural Language Processing | R Code</a>
 * <a href="Python/Bonus.ipynb" download>Bonus | Python Notebook</a>
 <hr>
 
