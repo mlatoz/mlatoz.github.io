@@ -1,5 +1,4 @@
 # Upper Confidence Bound (UCB)
-<hr>
 
 ## The Multi-Armed Bandit Problem - Summary
 
@@ -24,8 +23,17 @@
 - the average reward of ad *i* up to round *n*<br>
     <code><span style="text-decoration: overline">r</span><sub>i</sub>(n) = R<sub>i</sub>(n) / N<sub>i</sub>(n)</code>
 
-- the confidence interval <code>[<span style="text-decoration: overline">r</span><sub>i</sub>(n) - Δ<sub>i</sub>(n), <span style="text-decoration: overline">r</span><sub>i</sub>(n) + Δ<sub>i</sub>(n)]</code> at round *n* with
+- the confidence interval <code>[<span style="text-decoration: overline">r</span><sub>i</sub>(n) - Δ<sub>i</sub>(n), <span style="text-decoration: overline">r</span><sub>i</sub>(n) + Δ<sub>i</sub>(n)]</code> at round *n* with <br>
     <code>Δ<sub>i</sub>(n) = &#8730;(3 / 2) * (log(n) / N<sub>i</sub>(n))</code>
 
 **Step 3:** We select the ad *i* that has the maximum UCB *<code><span style="text-decoration: overline">r</span><sub>i</sub>(n) + Δ<sub>i</sub>(n)</code>.*
 <hr>
+
+## Download Resources
+* <a href="The Multi-Armed Bandit Problem.ipynb">The Multi-Armed Bandit Problem | ChatGPT Notes</a>
+* <a href="Python/Upper Confidence Bound (UCB).ipynb" download>Python Notebook</a>
+* <a href="Python/Ads_CTR_Optimisation.csv" download>Dataset</a>
+* <a href="R/Upper Confidence Bound (UCB).r" download>Upper Confidence Bound (UCB) | R Code</a>
+<hr>
+
+<a href="../Section 31 - Part 06 - Reinforcement Learning">«Previous</a> | <a href="../Section 33 - Thompson Sampling">Next»</a>
