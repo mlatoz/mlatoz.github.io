@@ -19,11 +19,4 @@
 *Enjoy Machine Learning!*
 <hr>
 
-## Download Resources
-* <a href="Python/Natural Language Processing (NLP).ipynb" download>Python Notebook</a>
-* <a href="Python/Restaurant_Reviews.tsv" download>Dataset</a>
-* <a href="R/Natural Language Processing (NLP).r" download>Thompson Sampling | R Code</a>
-* <a href="Python/Bonus.ipynb" download>Bonus | Python Notebook</a>
-<hr>
-
-<a href="../Section 33 - Thompson Sampling">«Previous</a> | <a href="../Section 35 - Part 08 - Deep Learning">Next»</a>
+<a href="../Section 34 - Part 07 - Natural Language Processing (NLP)">«Previous</a> | <a href="../Section 36 - Artificial Neural Networks (ANNs)">Next»</a>
