@@ -34,7 +34,7 @@ What we will learn in this section:
 
 <img src = "Images/Additional Reading - Efficient BackProp.png" alt = "Efficient BackProp" width="500px">
 
-#### [Efficient BackProp - Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+<h4><a href="Additional Reading/Efficient Back Propagation.pdf" download>Efficient BackProp - Yann LeCun</a></h4>
 <hr>
 
 ## The Activation Function
@@ -71,7 +71,7 @@ where<br>&emsp; `x = Sum of weights`
 
 <img src = "Images/Addtional Reading - Deep Sparse Rectifier Neural Networks.png" alt = "Deep Sparse Rectifier Neural Networks" width="500px">
 
-#### [Deep Sparse Rectifier Neural Networks - Xavier Glorot](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf)
+<h4><a href="Additional Reading/Deep Sparse Rectifier Neural Networks.pdf" download>Deep Sparse Rectifier Neural Networks - Xavier Glorot</a></h4>
 <hr>
 
 ## How do Neural Networks Learn?
@@ -180,3 +180,5 @@ where<br>&emsp;&emsp;`w(t)` represents the model parameters (weights and biases)
 
 * **STEP 7:** When the whole training set passed through the ANN, that makes an epoch. Redo more epochs.
 <hr>
+
+<a href="../Section 36 - Artificial Neural Networks (ANNs)">«Previous</a> | 
