@@ -181,4 +181,4 @@ where<br>&emsp;&emsp;`w(t)` represents the model parameters (weights and biases)
 * **STEP 7:** When the whole training set passed through the ANN, that makes an epoch. Redo more epochs.
 <hr>
 
-<a href="../Section 36 - Artificial Neural Networks (ANNs)">«Previous</a> | 
+<a href="../">«Previous</a> | 
