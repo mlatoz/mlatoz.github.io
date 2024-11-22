@@ -1,5 +1,4 @@
 # Part 07 - Natural Language Processing (NLP)
-<hr>
 
 ## Welcome to Part 07 - Natural Language Processing
 
@@ -39,3 +38,12 @@ In this part, you will understand and learn how to:
 4. CNN for text Recognition (Classification)
 5. Seq2Seq (many applications)
 <hr>
+
+## Download Resources
+* <a href="Python/Natural Language Processing (NLP).ipynb" download>Python Notebook</a>
+* <a href="Python/Restaurant_Reviews.tsv" download>Dataset</a>
+* <a href="R/Natural Language Processing (NLP).r" download>Thompson Sampling | R Code</a>
+* <a href="Python/Bonus.ipynb" download>Bonus | Python Notebook</a>
+<hr>
+
+<a href="../Section 33 - Thompson Sampling">«Previous</a> | <a href="../Section 35 - Part 08 - Deep Learning">Next»</a>
