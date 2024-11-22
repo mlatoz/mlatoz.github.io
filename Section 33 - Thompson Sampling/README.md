@@ -1,5 +1,4 @@
 # Thompson Sampling
-<hr>
 
 ## Bayesian Inference
 
@@ -55,3 +54,11 @@
     </tr>
 </table>
 <hr>
+
+## Download Resources
+* <a href="Python/Thompson Sampling.ipynb" download>Python Notebook</a>
+* <a href="Python/Ads_CTR_Optimisation.csv" download>Dataset</a>
+* <a href="R/Thompson Sampling.r" download>Thompson Sampling | R Code</a>
+<hr>
+
+<a href="../Section 32 - Upper Confidence Bound (UCB)">«Previous</a> | <a href="../Section 34 - Part 07 - Natural Language Processing (NLP)">Next»</a>
