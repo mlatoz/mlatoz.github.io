@@ -167,3 +167,5 @@ where
 
 #### [Deep Boltzmann Machines - Ruslan Salakhutdinov](http://www.utstat.toronto.edu/~rsalakhu/papers/dbm.pdf)
 <hr>
+
+<a href="../">«Previous</a> | 
