@@ -34,4 +34,4 @@ Hi guys,
 *Enjoy Deep Learning!*
 <hr>
 
-<a href=".../">«Previous</a> | 
+<a href="../../">«Previous</a> | 
