@@ -54,7 +54,7 @@ Here is the course overview:-
 43. <a href="Section 43 - Principal Component Analysis (PCA)">Section 43 - Principal Component Analysis (PCA)</a>
 44. <a href="Section 44 - Linear Discriminant Analysis (LDA)">Section 44 - Linear Discriminant Analysis (LDA)</a>
 45. <a href="Section 45 - Kernel PCA">Section 45 - Kernel PCA</a>
-46. <a href="Section 46 - Part 10 - Model Selection & Boosting">Section 46 - Welcome</a>
+46. <a href="Section 46 - Part 10 - Model Selection & Boosting">Section 46 - Part 10 - Model Selection & Boosting</a>
 47. <a href="Section 47 - Model Selection">Section 47 - Model Selection</a>
 48. <a href="Section 48 - XGBoost">Section 48 - XGBoost</a>
 49. <a href="Section 49 - Annex - Logistic Regression (Long Explanation)">Section 49 - Annex - Logistic Regression (Long Explanation)</a>
