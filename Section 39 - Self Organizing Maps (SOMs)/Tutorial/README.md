@@ -114,3 +114,5 @@
 
 #### [SOM - Creating hexagonal heatmaps with D3.js - Nadieh Bremer](https://www.visualcinnamon.com/2013/07/self-organizing-maps-creating-hexagonal.html)
 <hr>
+
+<a href="../">«Previous</a> | 
