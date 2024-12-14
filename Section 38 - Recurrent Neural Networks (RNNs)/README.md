@@ -12,4 +12,15 @@
     6. After having clearly identified the issues and improvement solutions, we will make several more robust and relevant RNNs. This will be the final big Homework Challenge of this course. The solution will be provided in a zip folder with all the final models and their plotted results.
 
 *Enjoy Deep Learning!*
+
+<a href="Tutorial">Read More about RNNs»</a>
+
+<a href="Evaluating and Improving the RNN">Evaluating and Improving the RNN»</a>
 <hr>
+
+## Download Resources
+* <a href="Python/Recurrent Neural Networks (RNNs).ipynb" download>Python Notebook</a>
+* <a href="Python/dataset.zip" download>Dataset</a>
+<hr>
+
+<a href="../Section 37 - Convolutional Neural Networks (CNNs)">«Previous</a> | <a href="../Section 39 - Self Organizing Maps (SOMs)">Next»</a>
