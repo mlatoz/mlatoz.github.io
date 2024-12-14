@@ -231,3 +231,5 @@
 
 #### [Reducing the Dimensionality of Data with Neural Networks - Pascal Vincent](https://www.cs.toronto.edu/~hinton/science.pdf)
 <hr>
+
+<a href="../">«Previous</a> | 
