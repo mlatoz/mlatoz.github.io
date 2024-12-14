@@ -146,3 +146,5 @@ What we will learn in this section:
 
 #### [How to Implement a Neural Network Intermezzo 2 - Peter Roelants](http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/)
 <hr>
+
+<a href="../">«Previous</a> | 
