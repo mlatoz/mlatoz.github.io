@@ -30,4 +30,13 @@ In the previous part we created a Recommender System that predicted binary ratin
     * Contractive AutoEncoders
     * Stacked AutoEncoders
     * Deep AutoEncoders
+
+<a href="Tutorial">Read More about AutoEncoders»</a>
 <hr>
+
+## Download Resources
+* <a href="Python/AutoEncoders.ipynb" download>Python Notebook</a>
+* <a href="Python/dataset.zip" download>Dataset</a>
+<hr>
+
+<a href="../Section 40 - Boltzmann Machines">«Previous</a> | <a href="../Section 42 - Part 09 - Dimensionality Reduction">Next»</a>
