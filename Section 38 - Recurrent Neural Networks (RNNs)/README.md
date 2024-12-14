@@ -15,7 +15,7 @@
 
 <a href="Tutorial">Read More about RNNs»</a>
 
-<a href="Evaluating and Improving the RNN">Evaluating and Improving the RNN»</a>
+<a href="Tutorial/Evaluating and Improving the RNN">Evaluating and Improving the RNN»</a>
 <hr>
 
 ## Download Resources
