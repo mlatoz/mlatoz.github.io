@@ -33,3 +33,5 @@ Hi guys,
 
 *Enjoy Deep Learning!*
 <hr>
+
+<a href=".../">«Previous</a> | 
