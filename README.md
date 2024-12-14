@@ -58,7 +58,7 @@ Here is the course overview:-
 47. <a href="Section 47 - Model Selection">Section 47 - Model Selection</a>
 48. <a href="Section 48 - XGBoost">Section 48 - XGBoost</a>
 49. <a href="Section 49 - Annex - Logistic Regression (Long Explanation)">Section 49 - Annex - Logistic Regression (Long Explanation)</a>
-50. <a href="Section 50 - Bonus">Section 50 - Bonus</a>
+50. <a href="Section 50 - Code Templates">Section 50 - Code Templates</a>
 
 ## Machine Learning Algorithms Cheatsheet
 
