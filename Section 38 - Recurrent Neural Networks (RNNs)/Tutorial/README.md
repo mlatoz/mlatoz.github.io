@@ -200,3 +200,5 @@ If you want to add more value to this section, we recommend checking out:
 
 #### [LSTM: A Search Space Odyssey - Klaus Greff](https://arxiv.org/pdf/1503.04069.pdf)
 <hr>
+
+<a href="../">«Previous</a> | 
