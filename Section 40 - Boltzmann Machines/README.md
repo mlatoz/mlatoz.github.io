@@ -30,4 +30,14 @@ In the Intuition Lectures Kirill will focus more on the Energy-Based Model point
     * Restricted Boltzmann Machine (RBM)
     * Contrastive Divergence (CD)
     * Deep Belief Networks (DBN)
+
+<a href="Tutorial">Read More about Boltzmann Machines»</a>
 <hr>
+
+## Download Resources
+* <a href="Python/Boltzmann Machines.ipynb" download>Python Notebook</a>
+* <a href="Python/dataset.zip" download>Dataset</a>
+* <a href="Python/Reference/An Introduction to Restricted Boltzmann Machines.pdf">Reference Book</a>
+<hr>
+
+<a href="../Section 39 - Self Organizing Maps (SOMs)">«Previous</a> | <a href="../Section 41 - AutoEncoders">Next»</a>
