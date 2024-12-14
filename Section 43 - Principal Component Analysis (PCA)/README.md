@@ -2,11 +2,11 @@
 
 *Uses:-*
 
-    * Noise Filtering
-    * Visualization
-    * Feature Extraction
-    * Stock Market Predictions
-    * Gene Data Analysis
+    1. Noise Filtering
+    2. Visualization
+    3. Feature Extraction
+    4. Stock Market Predictions
+    5. Gene Data Analysis
 
 *Goals:-*
 * Identify patterns in data
