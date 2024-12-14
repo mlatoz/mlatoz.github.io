@@ -9,3 +9,5 @@
 ### - Multiple:
 &emsp;&emsp;<code>y = b<sub>0</sub> + b<sub>1</sub>*x<sub>1</sub> + ... + b<sub>n</sub>*x<sub>n</sub></code>
 <hr>
+
+<a href="../Section 48 - XGBoost">«Previous</a> | <a href="../Section 50 - Bonus">Next»</a>
