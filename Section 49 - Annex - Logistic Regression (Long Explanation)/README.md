@@ -1,9 +1,13 @@
 # Logistic Regression (Long Explanation)
-<hr>
 
 ## <u>Linear Regression:</u>
 
 ### - Simple:
+
+$$
+  y = b_0 + b_1 * x
+$$
+
 &emsp;&emsp;<code>y = b<sub>0</sub> + b<sub>1</sub>*x</code>
 
 ### - Multiple:
