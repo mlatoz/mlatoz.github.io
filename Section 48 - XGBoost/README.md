@@ -1,4 +1,4 @@
-# Model Selection in Machine Learning
+# Boosting in Machine Learning
 
 ## Download Resources
 * <a href="Python/XGBoost.ipynb" download>Python Notebook</a>
