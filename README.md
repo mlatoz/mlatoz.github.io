@@ -1,4 +1,4 @@
-<h1>Machine Learning A-Z: AI, Python & R + ChatGPT Bonus [2023] &emsp12;&emsp12;&emsp12;&emsp12;&emsp12;&emsp12;&emsp12;&emsp12;&emsp12;&emsp12;&emsp12;&emsp12;&emsp12;&emsp12; <a href="https://www.github.com/mlatoz">GitHub</a></h1>
+<h1>Machine Learning A-Z: AI, Python & R + ChatGPT Bonus [2023] &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://www.github.com/mlatoz">GitHub</a></h1>
 
 This repository contains the code for the algorithms implemented in the Udemy course <i>"Machine Learning A-Z: AI, Python & R"</i> by <b><a href="https://github.com/hadelin2p">Hadelin de Ponteves</a></b> and <b><a href="https://github.com/kirilleremenko">Kirill Eremenko</a></b>.
 
