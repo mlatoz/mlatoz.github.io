@@ -95,6 +95,7 @@
       df[column] = df[column].str.lower().str.strip()
       return df
 ```
+<hr>
 
 ## Download Resources
 * <a href="Data Preprocessing.py" download>Python Template Code</a>
