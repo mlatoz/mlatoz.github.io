@@ -22,6 +22,8 @@
 
 <center><code>y = β<sub>0</sub> + β<sub>1</sub> * x + ε</code></center>
 
+<br>
+
 <pre>
   Where:
   
@@ -48,6 +50,8 @@
 
 <center><code>Y = β<sub>0</sub> + β<sub>1</sub> * X</code></center>
 
+<br>
+
 <pre>
   Where:
   
@@ -67,6 +71,8 @@
 <center><code>β<sub>1</sub> = Σ((X<sub>i</sub> - X̄)(Y<sub>i</sub> - Ȳ)) / Σ((X<sub>i</sub> - X̄)<sup>2</sup>)</code></center>
 
 <center><code>β<sub>0</sub> = Ȳ - β<sub>1</sub> * X̄</code></center>
+
+<br>
 
 <pre>
   Where:
