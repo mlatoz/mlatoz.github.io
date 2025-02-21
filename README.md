@@ -1,6 +1,7 @@
-<table cellspace="20">
+<h1>Machine Learning A-Z: AI, Python & R + ChatGPT Bonus [2023]</h1>
+<table cellspace="20" border="0">
   <tr>
-    <th>Machine Learning A-Z: AI, Python & R + ChatGPT Bonus [2023]</th>
+    <th></th>
     <th><a href="https://www.github.com/mlatoz">GitHub</a></th>
   </tr>
 </table>
