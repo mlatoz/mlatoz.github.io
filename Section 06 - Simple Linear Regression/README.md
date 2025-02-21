@@ -20,7 +20,7 @@
 
 * The equation for a simple linear regression model is typically represented as:
 
-<code>y = β<sub>0</sub> + β<sub>1</sub> * x + ε</code>
+<center><code>y = β<sub>0</sub> + β<sub>1</sub> * x + ε</code></center>
 
 <pre>
   Where:
@@ -46,7 +46,7 @@
 # Ordinary Least Squares
 * *Ordinary Least Squares (OLS)* is a method used in simple linear regression to estimate the parameters of a linear relationship between two variables. In simple linear regression, we have a dependent variable (`Y`) and an independent variable (`X`), and we want to find the best-fitting line that represents the linear relationship between them. The equation of the line is given by:
 
-<code>Y = β<sub>0</sub> + β<sub>1</sub> * X</code>
+<center><code>Y = β<sub>0</sub> + β<sub>1</sub> * X</code></center>
 
 <pre>
   Where:
@@ -64,9 +64,9 @@
 
 * Mathematically, the *OLS* estimates of <code>β<sub>0</sub></code> and <code>β<sub>1</sub></code> are obtained as follows:
 
-<code>β<sub>1</sub> = Σ((X<sub>i</sub> - X̄)(Y<sub>i</sub> - Ȳ)) / Σ((X<sub>i</sub> - X̄)<sup>2</sup>)</code>
+<center><code>β<sub>1</sub> = Σ((X<sub>i</sub> - X̄)(Y<sub>i</sub> - Ȳ)) / Σ((X<sub>i</sub> - X̄)<sup>2</sup>)</code></center>
 
-<code>β<sub>0</sub> = Ȳ - β<sub>1</sub> * X̄</code>
+<center><code>β<sub>0</sub> = Ȳ - β<sub>1</sub> * X̄</code></center>
 
 <pre>
   Where:
