@@ -97,6 +97,7 @@
 ```
 
 ## Download Resources
+* <a href="Data Preprocessing.py">Python Template Code</a>
 * <a href="Data Preprocessing in Python.ipynb" download>Python Notebook</a>
 * <a href="Data.csv" download>Dataset</a>
 <hr>
