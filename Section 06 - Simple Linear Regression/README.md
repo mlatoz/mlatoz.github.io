@@ -93,7 +93,7 @@
 * Once you have estimated the values of <code>β<sub>0</sub></code> and <code>β<sub>1</sub></code> using *OLS*, you can use the linear equation (<code>Y = β<sub>0</sub> + β<sub>1</sub> * X</code>) to predict the value of the dependent variable `Y` for any given value of the independent variable `X`. Additionally, you can assess the goodness of fit of the regression model and make inferences about the relationship between the two variables using statistical tests and measures such as R-squared, t-tests, etc.
 <hr>
 
-## Python Code
+## Python Code Template
 
 ```python
   # Import necessary libraries
