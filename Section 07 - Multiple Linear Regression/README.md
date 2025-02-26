@@ -89,6 +89,7 @@
 
 *NOTE:* The "*" represents important
 * **Step 5:** Fit model without this variable*
+* **FIN:** Your Model is Ready
 
 #### 3. Forward Selection
 * **Step 1:** Select a significance level to enter the model (e.g. SL = 0.05)
