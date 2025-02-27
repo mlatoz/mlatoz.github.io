@@ -9,6 +9,8 @@
 * Overall, Polynomial Regression is a powerful tool for modeling complex relationships between variables and is widely used in various fields.
 <hr>
 
+## Python Code Template
+
 ```python
   # Import necessary libraries
   import numpy as np
