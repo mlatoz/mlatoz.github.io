@@ -99,7 +99,7 @@
 
 ## Download Resources
 * <p><a href="Data Preprocessing.py" download>Python Template Code</a></p>
-* [Python Notebook Preview](https://github.com/mlatoz/mlatoz.github.io/blob/gh-pages/Section%2003%20-%20Data%20Preprocessing%20in%20Python/Data%20Preprocessing%20in%20Python.ipynb) | [Download](Data Preprocessing in Python.ipynb)
+* [Python Notebook Preview](https://github.com/mlatoz/mlatoz.github.io/blob/gh-pages/Section%2003%20-%20Data%20Preprocessing%20in%20Python/Data%20Preprocessing%20in%20Python.ipynb) \| [Download](Data Preprocessing in Python.ipynb)
 * <a href="Data.csv" download>Dataset</a>
 <hr>
 
