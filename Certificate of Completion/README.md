@@ -14,7 +14,7 @@ Completing this course in less than two months was no easy feat. It required ded
 
 I am excited to share that I have added the certificates of completion to this GitHub repository. These certificates are a testament to the knowledge and skills I have gained throughout this course.
 
-<img src="https://github.com/gandharvk422/Machine_Learning_A-Z/blob/main/Certificate%20of%20Completion/Machine%20Learning%20A-Z.jpg" alt="Machine Learning A-Z: AI, Python and R + ChatGPT Bonus [2023]">
+<img src="Machine Learning A-Z.jpg" alt="Machine Learning A-Z: AI, Python and R + ChatGPT Bonus [2023]">
 
 ## Expressing Gratitude
 
