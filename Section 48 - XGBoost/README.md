@@ -6,6 +6,6 @@
 * <a href="R/XGBoost.r" download>XGBoost | R Code</a>
 * <a href="R/Churn_Modelling.csv" download>Dataset | R</a>
 * <a href="CatBoost Bonus - Python">CatBoost Bonus</a>
-* <a href="LightGBM (Done by myself) - Python">CatBoost Bonus</a>
+* <a href="LightGBM (Done by myself) - Python">LightGBM Bonus</a>
 
 <a href="../Section 47 - Model Selection">«Previous</a> | <a href="../Section 49 - Annex - Logistic Regression (Long Explanation)">Next»</a>
