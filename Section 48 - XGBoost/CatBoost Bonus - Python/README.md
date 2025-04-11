@@ -19,4 +19,10 @@
 3. Fast and scalable GPU version
 4. Improved accuracy
 5. Fast prediction
+
+### Download Resources
+
+* <a href="Notebook.ipynb" download>Python Notebook</a>
+* <a href="CatBoost Code.py" download>Python Code</a>
+* <a href="Data.csv" download>Dataset</a>
 <hr>
