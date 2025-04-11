@@ -2,7 +2,7 @@
 
 * **LightGBM** is a gradient boosting framework that uses tree based learning algorithms.
 
-### Features
+## Features
 
 * It is designed to be distributed and efficient with the following advantages:
     1. Faster training speed and higher efficiency
@@ -10,4 +10,9 @@
     3. Better accuracy
     4. Support of parallel, distributed, and GPU learning
     5. Capable of handling large-scale data
+ 
+## Download Resources
+
+* <a href="LightGBM.ipynb">Python Notebook</a>
+* <a href="Data.csv">Dataset</a>
 <hr>
