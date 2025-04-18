@@ -20,11 +20,11 @@ Here is the course overview:-
 9. <a href="Section 09 - Support Vector Regression (SVR)">Section 09 - Support Vector Regression (SVR)</a>
 10. <a href="Section 10 - Decision Tree Regression">Section 10 - Decision Tree Regression</a>
 11. <a href="Section 11 - Random Forest Regression">Section 11 - Random Forest Regression</a>
-13. <a href="Section 12 - Evaluating Regression Models Performance">Section 13 - Evaluating Regression Models Performance</a>
-14. <a href="Section 13 - Regression Model Selection in Python">Section 14 - Regression Model Selection in Python</a>
-15. <a href="Section 14 - Regression Model Selection in R">Section 15 - Regression Model Selection in R</a>
-16. <a href="Section 15 - Part 03 - Classification">Section 16 - Part 03 - Classification</a>
-12. <a href="Section 16 - Logistic Regression">Section 12 - Logistic Regression</a>
+13. <a href="Section 12 - Evaluating Regression Models Performance">Section 12 - Evaluating Regression Models Performance</a>
+14. <a href="Section 13 - Regression Model Selection in Python">Section 13 - Regression Model Selection in Python</a>
+15. <a href="Section 14 - Regression Model Selection in R">Section 14 - Regression Model Selection in R</a>
+16. <a href="Section 15 - Part 03 - Classification">Section 15 - Part 03 - Classification</a>
+12. <a href="Section 16 - Logistic Regression">Section 16 - Logistic Regression</a>
 17. <a href="Section 17 - K-Nearest Neighbors (K-NN)">Section 17 - K-Nearest Neighbors (K-NN)</a>
 18. <a href="Section 18 - Support Vector Machine (SVM)">Section 18 - Support Vector Machine (SVM)</a>
 19. <a href="Section 19 - Kernel SVM">Section 19 - Kernel SVM</a>
