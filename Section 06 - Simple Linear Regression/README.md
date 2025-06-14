@@ -95,6 +95,56 @@
 
 ## Python Code Template
 
+### Traditional Template
+
+```python
+  # Import necessary libraries
+  import numpy as np
+  import pandas as pd
+  import matplotlib.pyplot as plt
+  import statsmodels.api as sm
+
+  # Load the data
+  data = pd.read_csv("1.01. Simple linear regression.csv")
+
+  # Define the dependent and the independent variables
+  y = data['GPA']
+  x1 = data['SAT']
+
+  # Explore the data
+  plt.scatter(x1, y)
+  plt.xlabel('SAT', fontsize=20)
+  plt.ylabel('GPA', fontsize=20)
+  plt.show()
+
+  # Regression itself
+  x = sm.add_constant(x1)
+  results = sm.OLS(y, x).fit()
+  results.summary()
+
+  # Plotting the graph
+  plt.scatter(x1, y)
+
+  yhat = 0.0017 * x1 + 0.275
+  fig = plt.plot(x1, yhat, lw = 4, c='orange', label='regression line')
+  
+  plt.xlabel('SAT', fontsize=20)
+  plt.ylabel('GPA', fontsize=20)
+  plt.show()
+
+  # Formula Method --> ŷ = b₀ + b₁x₁
+  plt.scatter(x1, y)
+
+  yhat = 0.0017 * x1 + 0.275
+  fig = plt.plot(x1, yhat, lw = 4, c='orange', label='regression line')
+
+  plt.xlabel('SAT', fontsize=20)
+  plt.ylabel('GPA', fontsize=20)
+  plt.show()
+```
+
+### Modern Template
+
 ```python
   # Import necessary libraries
   import numpy as np
