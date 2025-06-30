@@ -1,4 +1,3 @@
-<body>
 <h1>Machine Learning A-Z: AI, Python & R + ChatGPT Bonus [2023]</h1>
 
 This repository contains the code for the algorithms implemented in the Udemy course <i>"Machine Learning A-Z: AI, Python & R"</i> by <b><a href="https://github.com/hadelin2p">Hadelin de Ponteves</a></b> and <b><a href="https://github.com/kirilleremenko">Kirill Eremenko</a></b>.
@@ -74,4 +73,3 @@ Contributions are welcome! Please read the contributing guidelines before making
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 <a href="Section 01 - Welcome">Next»</a>
-</body>
