@@ -61,6 +61,7 @@
 <li><a href="Section 48 - XGBoost">Section 48 - XGBoost</a></li>
 <li><a href="Section 49 - Annex - Logistic Regression (Long Explanation)">Section 49 - Annex - Logistic Regression (Long Explanation)</a></li>
 <li><a href="Section 50 - Code Templates">Section 50 - Code Templates</a></li>
+</ol>
 
 <h2>Usage</h2>
 
