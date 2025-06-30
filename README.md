@@ -62,15 +62,15 @@
 <li><a href="Section 49 - Annex - Logistic Regression (Long Explanation)">Section 49 - Annex - Logistic Regression (Long Explanation)</a></li>
 <li><a href="Section 50 - Code Templates">Section 50 - Code Templates</a></li>
 
-## Usage
+<h2>Usage</h2>
 
 <p>To use the code in this repository, clone the repository and navigate to the specific section you're interested in. Each section contains a separate README file with instructions on how to run the code.</p>
 
-## Contributing
+<h2>Contributing</h2>
 
 <p>Contributions are welcome! Please read the contributing guidelines before making any changes.</p>
 
-## License
+<h2>License</h2>
 
 <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 
