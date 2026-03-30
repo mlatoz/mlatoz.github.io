@@ -158,6 +158,14 @@
 ```
 <hr>
 
+## Additional Reading
+
+### The Application of Multiple Linear Regression and Artificial Neural Network Models for Yield Production of Very Early Potato Cultivators before Harvest
+
+> Magdalena Piekutowska et. al. (2021)
+
+* Link: [https://www.mdpi.com/2073-4395/11/5/885](https://www.mdpi.com/2073-4395/11/5/885)
+
 ## Download Resources
 * <a href="Python/Multiple Linear Regression in Python.ipynb" download>Python Notebook</a>
 * <a href="Assumptions of Linear Regression.ipynb" download>Assumptions of Linear Regression</a>
